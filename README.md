@@ -1,5 +1,5 @@
 # Projetos_JavaScript
-*Projetos de estudo em JavaScript puro
+*Projetos de estudo em JavaScript puro                                                                                                                                             
 Certificados em: https://www.devmedia.com.br/perfil/lua-leal-cruz
 
 1.Hello-Pizza >
