@@ -1,6 +1,6 @@
 # Projetos_JavaScript
 *Projetos de estudo em JavaScript puro
-*Certificados em: https://www.devmedia.com.br/perfil/lua-leal-cruz
+Certificados em: https://www.devmedia.com.br/perfil/lua-leal-cruz
 
 1.Hello-Pizza >
 Projeto que pode ser iniciado direto pelo arquivo html. Acrescentei a funcionalidade de incrementar nos botões + e - da seleção de pizzas, a soma das pizzas selecionadas e a verificação se existe ou não pizzas selecionadas para o envio.
