@@ -24,3 +24,7 @@ Projeto cmd executado com node que mostra cômicamente curiosidades aleatórias 
 Foi estudado coleção de objetos.
 
 ![curiosidades_chuck_norris](https://user-images.githubusercontent.com/55967893/124785575-5a7b2e80-df1d-11eb-9f18-47eed346c390.png)
+
+
+ OS CERTIFICADOS ESTÃO NO MEU PERFIL DEVMEDIA:
+ https://www.devmedia.com.br/perfil/lua-leal-cruz
