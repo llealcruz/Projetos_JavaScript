@@ -10,8 +10,11 @@ function adicionaAoTotal(valor){
 }
 
 function removeDoTotal(valor){
-    var elementoTotal = document.querySelector("#total"); //Seleciona o total por id
-    elementoTotal.textContent =  Number(elementoTotal.textContent) - valor;
+    let elementoTotal = document.querySelector("#total"); //Seleciona o total por id
+    let valorTotalNumber = Number(elementoTotal.textContent);
+    if(valorTotalNumber >= valor){
+        elementoTotal.textContent =  valorTotalNumber - valor;
+    }
 }
 
 //Botão de incrementa--------------------------------------------------------------------------------------------
@@ -49,6 +52,7 @@ for(let botao of botoesDecrementa){
             //Remove do total o preço do item decrementado
             var precoItem = pegaPrecoItem(item);
             removeDoTotal(precoItem);
+            
         }else{
             console.log(input.value);
         }
